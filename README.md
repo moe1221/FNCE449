@@ -1,1 +1,2 @@
 # FNCE449
+This project examines strategies to exploit volatility decay in leveraged ETFs by implementing short positions on both long and short ETFs of selected assets. Two strategies are analyzed: a passive, no-rebalancing approach and a dynamic strategy with threshold-based rebalancing. By assessing asset-specific volatility and decay characteristics, this study aims to capture predictable declines in leveraged ETFs while managing directional market risks.
